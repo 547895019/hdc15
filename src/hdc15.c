@@ -18,7 +18,6 @@
 #define DBG_LVL DBG_INFO
 #include <rtdbg.h>
 
-#include "touch.h"
 #include "hdc15.h"
 
 
